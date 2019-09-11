@@ -1,7 +1,6 @@
-#https://www.codewars.com/kata/555eded1ad94b00403000071
+# https://www.codewars.com/kata/555eded1ad94b00403000071
 
 def series_sum(n):
-    # Happy Coding ^_^
     x = 1
     result = 0
     for i in range(n):
